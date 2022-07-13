@@ -10,3 +10,6 @@ The module was organized in a great manner; It started with the basics of ML and
 Day 3  Reflection:
 Deep learning is a branch of machine learning that is concerned with algorithms inspired by the structure and function of the brain. These algorithms are used to learn high-level abstractions from data. Deep learning is a relatively new field that has seen tremendous growth in recent years.
 I found Intro To Deep Learning to be a very interesting and informative course. I enjoyed learning about the different algorithms used in deep learning and how they can be applied to various tasks. I also found the course to be very well organized and easy to follow. 
+
+Day 4 Reflection:
+I found TensorFlow to be a very interesting and powerful tool for machine learning. It allows for the creation of very complex models and can be used for a variety of tasks. I enjoyed learning about the different types of models that can be created with TensorFlow and how they can be used to solve different problems. I also found it helpful to see how TensorFlow can be used to improve existing machine learning models. Overall, I found this to be a very informative and useful tool for machine learning.
