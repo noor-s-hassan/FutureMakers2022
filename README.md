@@ -13,3 +13,6 @@ I found Intro To Deep Learning to be a very interesting and informative course. 
 
 Day 4 Reflection:
 I found TensorFlow to be a very interesting and powerful tool for machine learning. It allows for the creation of very complex models and can be used for a variety of tasks. I enjoyed learning about the different types of models that can be created with TensorFlow and how they can be used to solve different problems. I also found it helpful to see how TensorFlow can be used to improve existing machine learning models. Overall, I found this to be a very informative and useful tool for machine learning.
+
+Day 5 Reflection:
+Neural networks are a powerful tool for machine learning, and they are widely used in a variety of applications. I have a basic understanding of how they work, and I was able to build a simple neural network model using the TensorFlow library. I found that the most challenging part of working with neural networks was understanding all of the different parameters and settings that are available. I found it helpful to read about the different types of neural networks and to experiment with different settings in order to find what worked best for my data. Overall, I am pleased with my understanding of neural networks and I look forward to using them in future projects.
