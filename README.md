@@ -33,3 +33,6 @@ Ultimately, it is the combination of all of these layers that makes CNNs so powe
 
 Day 9 Reflection:
 I was introduced to loss functions in the past but this assignment helped me really hone in on my understanding. I was figuiring out how different models can be evaluated and compared, and how loss functions are a key part of that process. Loss functions allow us to quantify how well (or poorly) a model is performing, and they can be used to optimize models by minimizing the error. I found this concept to be very interesting, and it has since helped me better understand and evaluate machine learning models.
+
+Day 10 Recflection:
+Activation functions are used in artificial neural networks to determine whether a neuron should be activated or not. There are a variety of activation functions, but the most common are the sigmoid, tanh, and ReLU functions. I found activation functions to be fascinating because they are what allow neural networks to learn and make predictions. Without activation functions, neural networks would be much less effective.
