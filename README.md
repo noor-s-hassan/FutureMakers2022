@@ -42,3 +42,6 @@ There are a number of ways that one can engage with ethical thinking while pract
 
 Day 12 Reflection:
 I have learned how to perform Image Classification using Machine Learning. As humans, we can recognize a person by his/her face by just meeting them once, and the same is desirable by computers because many times data is at a minimum. I have learned that in order to achieve this, we need to use a supervised learning algorithm. This will enable the computer to "learn" from a set of labeled images. After the computer has "learned" from this set of images, it can then be applied to a new set of images (the test set) and be able to classify them correctly.
+
+Day 13 Reflection:
+Overfitting is a common problem in machine learning, where a model performs well on training data but does not generalize well to new data. This can be mitigated with regularization, which is a technique that penalizes complex models in order to prevent overfitting.
