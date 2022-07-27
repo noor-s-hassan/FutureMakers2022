@@ -45,3 +45,6 @@ I have learned how to perform Image Classification using Machine Learning. As hu
 
 Day 13 Reflection:
 Overfitting is a common problem in machine learning, where a model performs well on training data but does not generalize well to new data. This can be mitigated with regularization, which is a technique that penalizes complex models in order to prevent overfitting.
+
+Day 14 Reflection:
+I was able to complete the objectives of familiarizing myself with upsampling and downsampling, as well as introducing myself to autoencoders. I found the concepts to be interesting and beneficial to my understanding of machine learning. Overall, I enjoyed learning about these topics and feel that I have a better understanding of them now.
