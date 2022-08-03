@@ -48,3 +48,12 @@ Overfitting is a common problem in machine learning, where a model performs well
 
 Day 14 Reflection:
 I was able to complete the objectives of familiarizing myself with upsampling and downsampling, as well as introducing myself to autoencoders. I found the concepts to be interesting and beneficial to my understanding of machine learning. Overall, I enjoyed learning about these topics and feel that I have a better understanding of them now.
+
+Day 15 Reflection:
+I found the Introduction to Affective Computing course fascinating. I was particularly interested in learning about emotion estimation from speech parameters. This was something I was not familiar with prior to taking this course, but I found it to be a very interesting topic. The course did a great job of introducing the concept and providing examples of how it can be used in real-world applications. I would recommend this course to anyone interested in learning more about affective computing.
+
+Day 16 Reflection:
+NLP is a field of computer science and artificial intelligence that deals with the interaction between computers and human (natural) languages. In order to make sense of human language, NLP algorithms are used to analyze and interpret text. NLP is used in a variety of applications, including text classification, topic modeling, sentiment analysis, and machine translation.
+
+Day 17 Reflection:
+In this objective, we are introduced to Computer Vision (CV). CV is a field of study that focuses on how computers can interpret and understand the visual world. This is an important skill for machines to have, as it allows them to interact with humans in a more natural way. We also learn how machines can “read” our emotions by looking at our face. This is a valuable ability, as it can help machines understand our mood and intentions. This information can be used to provide us with better service, or to customize content that we see on the internet.
